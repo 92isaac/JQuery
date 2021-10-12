@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 50px;
+
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.slide-in{
+  display: none;
+  text-align: center;
+  /* width: 700px; */
+
+}
+
+.slide{
+  margin-left: 400px;
+}
+
+/* div .slide-in{
+  width: 500px;
+  word-wrap: break-word;
+} */
